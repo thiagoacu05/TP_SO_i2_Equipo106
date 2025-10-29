@@ -42,6 +42,7 @@ ALFA:
  git add .
  git commit -m 
  git push
+(pull request)
 
 BETA:
  git fetch
