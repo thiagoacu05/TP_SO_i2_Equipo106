@@ -1,3 +1,49 @@
 c - GAMMA aún no ha hecho su parte.
 
 d - No, mientras se haga correctamente.
+
+e- 
+BETA:
+ git clone 
+ git add .
+ git commit -m 
+ git push
+
+ALFA
+ git clone
+ git add .
+ git commit -m 
+ git push
+(pull request)
+
+BETA:
+ git fetch
+ git merge
+ git pull
+ git add .
+ git commit -m 
+ git push
+
+ALFA:
+ git fetch upstream
+ git merge upstream/main
+
+BETA:
+ git fetch
+ git merge
+ git pull
+ git add .
+ git commit -m 
+ git push
+
+ALFA:
+ git fetch upstream
+ git merge upstream/main
+ git add .
+ git commit -m 
+ git push
+
+BETA:
+ git fetch
+ git merge
+ git pull
