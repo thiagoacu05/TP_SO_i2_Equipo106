@@ -1,0 +1,2 @@
+# TP_SO_i2_Equipo106
+INTERACCION 2 
